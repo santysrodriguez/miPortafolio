@@ -1,0 +1,29 @@
+/* font-family: 'Roboto', sans-serif; */
+
+:root {
+    --Amarillo: #EAC926;
+    --Azul: #03264C;
+    --Celeste: #1259c3;
+    --GrisOscuro: #666;
+    --GrisClaro: #ebebeb;
+    --Verde: #39b54a;
+}
+
+body {
+    font-family: 'Roboto';
+    background-color: var(--GrisClaro);
+    width: 100%;
+}
+
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
